@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Twitter Searches</string>
+	<string name="searchURL">http://mobile.twitter.com/search/</string>
+	<string name="filter">+filter:</string>
+	<string name="tagPrompt">Tag your query</string>
+	<string name="queryPrompt">Enter Twitter search query here</string>
+	<string name="taggedSearches">Tagged Searches</string>
+	<string name="saveDescription">Touch this button to save your tagged search</string>
+	
+   <string-array name="dialog_items">
+      <item>Share</item>
+      <item>Edit</item>
+      <item>Delete</item>
+   </string-array>
+   <string name="filterType">Select Filter Type</string>
+   <string-array name="filter_items">
+      <item>Images</item>
+      <item>Videos</item>
+      <item>Links</item>
+   </string-array>
+   
+   <string name="cancel">Cancel</string>
+   <string name="OK">OK</string>
+   
+	<string name="missingMessage">Enter both a Twitter search query and a tag</string>
+	<string name="action_settings">Settings</string>
+</resources>
